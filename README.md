@@ -1,6 +1,6 @@
-# Urban Airship Cordova Plugin
+# Urban Airship Cordova Custom Plugin
 
-This plugin supports Cordova apps running on both iOS and Android.
+This plugin supports Cordova apps running on both iOS and Android and maintains support for java 1.6.
 
 ### Resources:
  - [Getting started guide](http://docs.urbanairship.com/platform/cordova/)
